@@ -1,0 +1,42 @@
+body
+{
+    background: rgb(19, 20, 25);
+    text-align: center;
+
+}
+.kutu
+{
+    display: flex;
+    width: 550px;
+    height: 200px;
+    background: rgb(19, 20, 25);
+    box-shadow:  7px 7px 15px #0c0e10c9, -8px -8px 15px #14191dd1, inset -5px -4px 13px 0px rgb(0 0 0 / 52%), inset 6px 7px 12px 0px #1b1f23cf;
+    margin-top: 15%;
+    color: #ff6a00 !important;
+}
+.adsız
+{
+    display: flex;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+#saat
+{
+  
+}
+#daka
+{
+   
+}
+#saniye
+{
+   
+}
+.kutuu
+{
+    margin-right: 40px;
+    width: 80px;
+    height: 80px;
+    background: #131419;
+    box-shadow: 6px 6px 8px rgb(0 0 0 / 50%), -6px -6px 10px rgb(255 255 255 / 5%);
+}
